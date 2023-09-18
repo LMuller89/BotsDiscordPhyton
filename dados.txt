@@ -1,0 +1,6 @@
+UID: uidSteam
+Nome: nickName
+Expiração: dataExpiracao
+Roupa: roupaSpawn
+Assalto: armaAssalto
+Sniper: armaSniper
