@@ -1,6 +1,21 @@
-UID: uidSteam
-Nome: nickName
-Expiração: dataExpiracao
-Roupa: roupaSpawn
-Assalto: armaAssalto
-Sniper: armaSniper
+id
+-
+uidDiscord
+nickNameDiscord
+termoAceite
+tagCla
+ClaCargo
+-
+uidSteam
+nickName
+tipoVip
+dataAquisicao
+dataExpiracao
+roupaSpawn
+armaAssalto
+armaSniper
+
+Alterar o nome no discord para entrar no jogo (Usar do mod que altera para o nome da steam)
+
+Estrutura do arquivo atualizado na mensagem da steam
+nickName|uidSteam|dataExpiracao|roupaSpawn|armaAssalto|armaSniper
