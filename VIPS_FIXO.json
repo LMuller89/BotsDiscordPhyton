@@ -1,21 +1,191 @@
-KIT-ASSAULTO-VERDE|NO-GUN|NO-GUN|76561199054739149|99/99/9999|Luan
-MULTICAM-BLACK|NO-GUN|NO-GUN|76561199151770201|16/10/2022|Yoda
-FULL-Whitesticker|NO-GUN|NO-GUN|76561198803952739|18/12/2022|GUSPATO
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561199109830053|29/09/2022|Diego
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561199291810592|29/09/2022|blackout
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561198098740303|15/10/2022|Kilua 
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561198831613593|20/10/2022|Paines
-FULL-Whitesticker|NO-GUN|NO-GUN|76561199043601671|11/12/2022|RHostim  
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561199153098008|07/11/2022|INOVE
-FULL-Whitesticker|NO-GUN|NO-GUN|76561198868687609|10/11/2022|Gaucho 
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561198081541741|14/10/2022|STRIKER
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561199104397359|14/11/2022|RAGNAR
-FULL-Canvas|NO-GUN|NO-GUN|76561199391925043|04/12/2022|noopy
-FULL-Canvas|NO-GUN|NO-GUN|76561198403341069|26/11/2022|P4nda
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561198076565680|28/11/2022|blt bruxao  
-FULL-Canvas|NO-GUN|NO-GUN|76561198412265292|04/12/2022|MATTIA
-GHILLIE-GREEN|NO-GUN|NO-GUN|76561198135925785|05/12/2022|Mike
-FULL-BLACK|NO-GUN|NO-GUN|76561199076070880|10/12/2022|OLIVEIRA
-FULL-BLACK|NO-GUN|NO-GUN|76561198329341267|10/12/2022|Atalanta
-FULL-BLACK|NO-GUN|NO-GUN|76561199231535763|10/12/2022|MATTIA
-FULL-BLACK|NO-GUN|NO-GUN|76561199037491284|10/12/2022|MATTIA
+[
+    {
+        "uidSteam": "76561199054739149",
+        "nickName": "Luan",
+        "dataAquisicao": "70/99/9999",
+        "dataExpiracao": "99/99/9999",
+        "roupaSpawn": "KIT-ASSAULTO-VERDE",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199151770201",
+        "nickName": "Yoda",
+        "dataAquisicao": "16/09/2022",
+        "dataExpiracao": "16/10/2022",
+        "roupaSpawn": "MULTICAM-BLACK",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198803952739",
+        "nickName": "GUSPATO",
+        "dataAquisicao": "18/11/2022",
+        "dataExpiracao": "18/12/2022",
+        "roupaSpawn": "FULL-Whitesticker",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199109830053",
+        "nickName": "Diego",
+        "dataAquisicao": "29/08/2022",
+        "dataExpiracao": "29/09/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199291810592",
+        "nickName": "blackout",
+        "dataAquisicao": "29/08/2022",
+        "dataExpiracao": "29/09/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198098740303",
+        "nickName": "Kilua",
+        "dataAquisicao": "15/09/2022",
+        "dataExpiracao": "15/10/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198831613593",
+        "nickName": "Paines",
+        "dataAquisicao": "20/09/2022",
+        "dataExpiracao": "20/10/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199043601671",
+        "nickName": "RHostim",
+        "dataAquisicao": "11/11/2022",
+        "dataExpiracao": "11/12/2022",
+        "roupaSpawn": "FULL-Whitesticker",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199153098008",
+        "nickName": "INOVE",
+        "dataAquisicao": "07/10/2022",
+        "dataExpiracao": "07/11/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198868687609",
+        "nickName": "Gaucho",
+        "dataAquisicao": "10/10/2022",
+        "dataExpiracao": "10/11/2022",
+        "roupaSpawn": "FULL-Whitesticker",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198081541741",
+        "nickName": "STRIKER",
+        "dataAquisicao": "14/09/2022",
+        "dataExpiracao": "14/10/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199104397359",
+        "nickName": "RAGNAR",
+        "dataAquisicao": "14/10/2022",
+        "dataExpiracao": "14/11/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199391925043",
+        "nickName": "noopy",
+        "dataAquisicao": "04/11/2022",
+        "dataExpiracao": "04/12/2022",
+        "roupaSpawn": "FULL-Canvas",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198403341069",
+        "nickName": "P4nda",
+        "dataAquisicao": "26/10/2022",
+        "dataExpiracao": "26/11/2022",
+        "roupaSpawn": "FULL-Canvas",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198076565680",
+        "nickName": "blt bruxao",
+        "dataAquisicao": "28/10/2022",
+        "dataExpiracao": "28/11/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198412265292",
+        "nickName": "MATTIA",
+        "dataAquisicao": "04/11/2022",
+        "dataExpiracao": "04/12/2022",
+        "roupaSpawn": "FULL-Canvas",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198135925785",
+        "nickName": "Mike",
+        "dataAquisicao": "05/11/2022",
+        "dataExpiracao": "05/12/2022",
+        "roupaSpawn": "GHILLIE-GREEN",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199076070880",
+        "nickName": "OLIVEIRA",
+        "dataAquisicao": "10/11/2022",
+        "dataExpiracao": "10/12/2022",
+        "roupaSpawn": "FULL-BLACK",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561198329341267",
+        "nickName": "Atalanta",
+        "dataAquisicao": "10/11/2022",
+        "dataExpiracao": "10/12/2022",
+        "roupaSpawn": "FULL-BLACK",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199231535763",
+        "nickName": "MATTIA",
+        "dataAquisicao": "10/11/2022",
+        "dataExpiracao": "10/12/2022",
+        "roupaSpawn": "FULL-BLACK",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    },
+    {
+        "uidSteam": "76561199037491284",
+        "nickName": "MATTIA",
+        "dataAquisicao": "10/11/2022",
+        "dataExpiracao": "10/12/2022",
+        "roupaSpawn": "FULL-BLACK",
+        "armaAssalto": "null",
+        "armaSniper": "null"
+    }
+]

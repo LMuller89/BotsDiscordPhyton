@@ -9,4 +9,7 @@ Install Discord.py
 Bot: bot_teste.py
 Token MTE1MjI4NzkyMjA3OTQxMjMxNQ.GW_yGI.C2-AgtFwRXs2zufqWCcfXozxmLToVDzltKJ6gI
 Path_bot: cd C:\Users\mulle\OneDrive\Documentos\GitHub\BotsDiscordPhyton
-python bot_teste.py
+python bot_teste.py - comunica
+python teste_alterar.py - altera
+python teste_15.py - manda arquivo json
+python teste_15fixo.py
