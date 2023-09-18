@@ -8,7 +8,7 @@ intents.presences = False
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Defina o token do seu bot aqui
-TOKEN = 'MTE1MjI4NzkyMjA3OTQxMjMxNQ.G4kKk0.6-NWC2bveprJQATzczQ3BuEGYhp0wKRmewQNJE'
+TOKEN = 'MTE1MjI4NzkyMjA3OTQxMjMxNQ.GW_yGI.C2-AgtFwRXs2zufqWCcfXozxmLToVDzltKJ6gI'
 
 @bot.event
 async def on_ready():
